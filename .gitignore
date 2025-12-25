@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.DS_Store
+.env
+data/CORD/
+data/FUNSD/
+checkpoints/*.pt
+!checkpoints/.gitkeep
+wandb/
+.vscode/
